@@ -1,6 +1,6 @@
 # 👋Hello there! Im Yahya
 ## Software engineer & Full stack engineer
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2FBananaKlit%2Fprofile-views)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?query=https%3A%2F%2Fapi.countapi.xyz%2Fget%2FBananaKlit%2Fprofile-views)
 
 
 <!--
