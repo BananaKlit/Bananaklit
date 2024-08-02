@@ -1,6 +1,6 @@
 # 👋Hello there! Im Yahya
 ## Software engineer & Full stack engineer
-![visitors](https://visitor-badge.glitch.me/badge?page_id=BananaKlit.Bananaklit&left_color=green&right_color=red)
+![visitors](https://shields.io/badge/dynamic/json?color=green&label=visitors&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FBananaKlit.Bananaklit-repo%2Fvisits)
 
 <!--
 **BananaKlit/Bananaklit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
