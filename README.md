@@ -1,5 +1,5 @@
 # 👋Hello there! Im Yahya
-## Software engineer & Full stack engineer
+## Software engineer || Full stack engineer
 
 
 
